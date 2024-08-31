@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br> My name is Saaketh Sreeramoju a passionate Data/Business Analyst.<br>You can see my Data Analysis projects in my repositories.</h2>
+<h2 align="left">Hi 👋!<br> My name is Saaketh Sreeramoju a passionate Data/Business Analyst.<br>You can see my Data Analysis and Machine Learning projects in my repositories.</h2>
 
 ###
 
